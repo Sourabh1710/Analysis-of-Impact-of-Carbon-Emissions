@@ -35,15 +35,15 @@ Examining how temperature changes and CO₂ concentrations evolve over time:
 - A consistent increase in CO₂ concentrations suggests greenhouse gas accumulation.
 - A slight upward trend in global temperature change supports the hypothesis of CO₂’s contribution to global warming.
 
-![Time-Series Graph]([image_placeholder](https://github.com/Sourabh1710/Analysis-of-Impact-of-Carbon-Emissions/blob/main/images/Time-Series%20of%20Temperature%20Change%20and%20CO2%20Concentration.png))
+![Time-Series Graph](https://github.com/Sourabh1710/Analysis-of-Impact-of-Carbon-Emissions/blob/main/images/Time-Series%20of%20Temperature%20Change%20and%20CO2%20Concentration.png)
 
 A **heatmap** reveals a strong positive correlation (0.96) between CO₂ concentrations and temperature changes, reinforcing the connection between emissions and warming trends.
 
-![Heatmap]([image_placeholder](https://github.com/Sourabh1710/Analysis-of-Impact-of-Carbon-Emissions/blob/main/images/Correlation%20Heatmap.png))
+![Heatmap](https://github.com/Sourabh1710/Analysis-of-Impact-of-Carbon-Emissions/blob/main/images/Correlation%20Heatmap.png)
 
 A **scatter plot** displays a linear trend where higher CO₂ concentrations correspond to greater temperature changes.
 
-![Scatter Plot]([image_placeholder](https://github.com/Sourabh1710/Analysis-of-Impact-of-Carbon-Emissions/blob/main/images/Temperature%20Change%20vs%20CO2%20concentrations.png))
+![Scatter Plot](https://github.com/Sourabh1710/Analysis-of-Impact-of-Carbon-Emissions/blob/main/images/Temperature%20Change%20vs%20CO2%20concentrations.png)
 
 ---
 
@@ -52,7 +52,7 @@ Using linear regression:
 - **CO₂ trend slope**: 0.32 (indicating rapid increase)
 - **Temperature trend slope**: 0.03 (indicating steady accumulation over time)
 
-![Linear Regression Trends]([image_placeholder](https://github.com/Sourabh1710/Analysis-of-Impact-of-Carbon-Emissions/blob/main/images/Trends%20in%20Temperature%20Change%20and%20CO2%20concentrations.png))
+![Linear Regression Trends](https://github.com/Sourabh1710/Analysis-of-Impact-of-Carbon-Emissions/blob/main/images/Trends%20in%20Temperature%20Change%20and%20CO2%20concentrations.png)
 
 **Seasonal fluctuations in CO₂ concentrations**:
 - Peak in late spring/early summer (around May)
@@ -60,7 +60,7 @@ Using linear regression:
 
 This seasonal cycle underscores the role of natural carbon sinks in moderating atmospheric CO₂ levels.
 
-![Seasonal Variations Graph]([image_placeholder](https://github.com/Sourabh1710/Analysis-of-Impact-of-Carbon-Emissions/blob/main/images/Seasonal%20Variations%20in%20CO2%20Concentrations.png))
+![Seasonal Variations Graph](https://github.com/Sourabh1710/Analysis-of-Impact-of-Carbon-Emissions/blob/main/images/Seasonal%20Variations%20in%20CO2%20Concentrations.png)
 
 ---
 
@@ -96,7 +96,7 @@ I group years based on similarities in temperature anomalies and CO₂ concentra
 
 The transition from green to blue clusters reflects increasing temperature change corresponding to rising CO₂ levels.
 
-![Clustering Graph]([image_placeholder](https://github.com/Sourabh1710/Analysis-of-Impact-of-Carbon-Emissions/blob/main/images/Clustering%20of%20Years%20Based%20on%20Climate%20Patterns.png))
+![Clustering Graph](https://github.com/Sourabh1710/Analysis-of-Impact-of-Carbon-Emissions/blob/main/images/Clustering%20of%20Years%20Based%20on%20Climate%20Patterns.png)
 
 ---
 
