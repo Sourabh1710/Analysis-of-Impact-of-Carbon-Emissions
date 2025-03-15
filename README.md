@@ -8,7 +8,7 @@ I use two primary datasets:
 1. **Temperature Data**: Annual temperature anomalies measured in degrees Celsius across decades.
 2. **CO₂ Data**: Monthly global atmospheric CO₂ concentrations in parts per million (ppm).
 
-By combining these datasets, I investigate correlations, detect patterns over decades, and use predictive modeling to simulate "what-if" scenarios. This data-driven approach provides actionable insights into the connection between carbon emissions and climate change, offering valuable context for sustainable policy-making.
+By combining these [datasets](https://statso.io/carbon-emissions-worldwide-case-study/), I investigate correlations, detect patterns over decades, and use predictive modeling to simulate "what-if" scenarios. This data-driven approach provides actionable insights into the connection between carbon emissions and climate change, offering valuable context for sustainable policy-making.
 
 ---
 
